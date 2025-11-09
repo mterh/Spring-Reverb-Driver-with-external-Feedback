@@ -20,4 +20,4 @@ To address this, I chose the OPA1679, which offers high input impedance, low noi
 (OPA1679: 4.5 nV/√Hz, 50 mA Isc; NE5532: 5 nV/√Hz, 60 mA Isc).
 
 ## Schematic
-![Spring Reverb with Feedback — Schematic](docs/springreverb_schematic.jpg)
+![Spring Reverb with Feedback — Schematic](docs/springreverb_schematic.png)
